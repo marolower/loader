@@ -1,0 +1,4 @@
+scripts = {
+  name = anoflow,
+  code = "print('loaded')"
+}
