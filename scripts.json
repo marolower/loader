@@ -1,6 +1,4 @@
 {
-  
-  name = anoflow,
-  code = "print('loaded')"
-  
+  "name": "anoflow",
+  "code": "print('1')"
 }
