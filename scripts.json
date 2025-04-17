@@ -1,14 +1,5 @@
 {
-  "scripts": [
-    {
-      "name": "anoflow",
-      "build": "lite",
-      "code": "print('anoflow lite test')"
-    },
-    {
-      "name": "_EXEC",
-      "build": "init",
-      "code": "print('_EXEC init test')"
-    },
-  ]
+  "name": "_EXEC",
+  "build": "init",
+  "code": "print('exec init test')"
 }
