@@ -1,4 +1,14 @@
 {
-  "name": "anoflow",
-  "code": "print('1')"
+  "scripts": [
+    {
+      "name": "anoflow",
+      "build": "lite",
+      "code": "print('anoflow lite test')"
+    },
+    {
+      "name": "_EXEC",
+      "build": "init",
+      "code": "print('_EXEC init test')"
+    },
+  ]
 }
